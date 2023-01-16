@@ -9,7 +9,7 @@
 
 ## Inhouse Models
 * 004 Glasses hanger
-![004-Glasses-hanger](/004-Glasses-hanger/img.jpg)
+![004-Glasses-hanger](/004-Glasses-hanger/image.jpg)
 * 005-gia-treo-dien-thoai-bphone (inprogress)
 * 006-Walkman-A25-hanger
 ![006-Walkman-A25-hanger](/006-Walkman-A25-hanger/image.png)
