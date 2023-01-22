@@ -11,13 +11,17 @@
 ![003-Razor_holder](/003-Razor_holder_662714/image.jpg)
 
 ## Inhouse Models
-### 004 Glasses hanger
+### 004. Glasses hanger
 
 ![004-Glasses-hanger](/004-Glasses-hanger/image.jpg)
-### 005 gia treo dien thoai bphone (inprogress)
-### 006 Walkman A25 hanger
+### 005. gia treo dien thoai bphone (inprogress)
+### 006. Walkman A25 hanger
 
 ![006-Walkman-A25-hanger](/006-Walkman-A25-hanger/image.png)
-### 007 Wire hanger
+### 007. Wire hanger
 
 ![007-Wire-hanger](/007-Wire-hanger/image.png)
+
+### 008. Ball
+
+![008-Ball](/008-Ball/image.png)
