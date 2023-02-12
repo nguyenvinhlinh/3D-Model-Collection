@@ -29,3 +29,7 @@
 ### 009. USB Cable hanger
 
 ![009-USB cable hanger](/009-USB-cable-hanger/image.png)
+
+### 010. PSU Frame
+
+![010-PSU Frame](/010-PSU-Hanger/image.png)
