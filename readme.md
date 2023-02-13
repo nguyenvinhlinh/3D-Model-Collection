@@ -36,4 +36,4 @@
 
 ### 010. On/Off button frame
 
-![011-On/Off button  Frame](/011-On-off-button-frame/image.png/image.png)
+![011-On/Off button  Frame](/011-On-off-button-frame/image.png)
