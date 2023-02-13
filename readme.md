@@ -34,6 +34,10 @@
 
 ![010-PSU Frame](/010-PSU-Hanger/image.png)
 
-### 010. On/Off button frame
+### 011. On/Off button frame
 
 ![011-On/Off button  Frame](/011-On-off-button-frame/image.png)
+
+
+### 012. SSD Frame
+![012-SSD Frame](/012-SSD-frame/image.png)
