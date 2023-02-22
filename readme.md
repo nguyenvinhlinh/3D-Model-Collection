@@ -44,3 +44,5 @@
 
 ### 013. Ifixit plastic clamp
 ![013-Ifixit plastic clamp](/013-Ifixit-plastic-clamp/image.png)
+
+![013-Before & After](/013-Ifixit-plastic-clamp/image2.png)
