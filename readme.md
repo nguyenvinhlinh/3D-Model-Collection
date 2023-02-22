@@ -41,3 +41,6 @@
 
 ### 012. SSD Frame
 ![012-SSD Frame](/012-SSD-frame/image.png)
+
+### 013. Ifixit plastic clamp
+![013-Ifixit plastic clamp](/013-Ifixit-plastic-clamp/image.png)
