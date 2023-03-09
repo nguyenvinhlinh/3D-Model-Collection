@@ -52,3 +52,6 @@
 
 ### 016. Teabag holder
 ![016-Teabag holder](/016-Tea-bag-holder/image.png)
+
+### 017. Swaft holder
+![017-Swaft holder](017-Swarf-holder/image.png)
