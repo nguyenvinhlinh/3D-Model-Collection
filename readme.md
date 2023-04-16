@@ -61,3 +61,6 @@
 ### 017. Swaft holder
 ![017-Swaft holder](017-Swarf-holder/image.png)
 ![017-Real image](017-Swarf-holder/image-2.jpg)
+
+### 018. Fan remote hanger
+![018-Fan remote hanger](/018-fan-remote-hanger/image.png)
