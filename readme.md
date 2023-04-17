@@ -66,4 +66,4 @@
 ![018-Fan remote hanger](/018-fan-remote-hanger/image.png)
 
 ### 019. Countdown timer
-![019-Countdown timer](/019-count-down-timer/image.png)
+![019-Countdown timer](/019-countdown-timer/image.png)
