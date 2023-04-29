@@ -67,3 +67,8 @@
 
 ### 019. Countdown timer
 ![019-Countdown timer](/019-countdown-timer/image.png)
+
+### 020. Nvidia P100 + NIDEC GAMMA30 12v
+![020-Airvent](/020-P100-air-vent/image-1.png)
+
+![020-Real Image](/020-P100-air-vent/image-2.jpg)
