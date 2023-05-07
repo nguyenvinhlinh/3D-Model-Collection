@@ -75,3 +75,6 @@
 
 ### 021. Drink coaster
 ![021-Drink Coaster ](/021-drink-coaster/image.jpg)
+
+### 022. Caliper holder
+![022. Caliper holder](/022-caliper-holder/1.jpg)
