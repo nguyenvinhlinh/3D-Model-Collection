@@ -80,9 +80,10 @@
 ![022. Caliper holder](/022-caliper-holder/1.jpg)
 
 ### 023. First layer pad
-width:  80   mm
-lenght: 80   mm
-height: 0.12 mm
+- width:  80   mm
+- lenght: 80   mm
+- height: 0.12 mm
+
 This is for bed level testing.
 ![023. First layer pad](/023-first-layer/image.png)
 
