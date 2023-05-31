@@ -90,7 +90,8 @@ This is for bed level testing.
 ### 024. Funnel
 ![024. Funnel](/024-funnel/image.png)
 
-
+### 025. Benro T8800EX pad
+![025. Benro T8800EX pad](/025-Benro-T8800EX-pad/image.png)
 
 ### 026. Nut cap
 ![026. Nut cap](/026-nut-cap/image.png)
