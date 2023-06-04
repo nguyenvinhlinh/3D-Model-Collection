@@ -95,3 +95,6 @@ This is for bed level testing.
 
 ### 026. Nut cap
 ![026. Nut cap](/026-nut-cap/image.png)
+
+### 027.
+![027](/027/image.png)
