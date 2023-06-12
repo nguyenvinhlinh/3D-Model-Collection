@@ -111,3 +111,6 @@ This is for bed level testing.
 
 ### 031. Cabinet hand
 ![031. Cabinet hand](/031-cabinet-hand/image.png)
+
+### 032. Samsung controller hanger - Serial: BN59-01199G
+![032. Samsung controller hanger - Serial: BN59-01199G](/032-BN59-01199G-Hanger/image.png)
