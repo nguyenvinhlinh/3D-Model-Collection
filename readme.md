@@ -108,3 +108,6 @@ This is for bed level testing.
 
 ### 030. Table Tray
 ![030 Table Tray](/030-table-tray/image.png)
+
+### 031. Cabinet hand
+![031. Cabinet hand](/031-cabinet-hand/image.png)
