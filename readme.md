@@ -98,3 +98,13 @@ This is for bed level testing.
 
 ### 027.
 ![027](/027/image.png)
+
+### 028. Accurate Box
+![028. Accurate Box](/028-accurate-box/image.png)
+
+
+### 029. Embroider Frame
+![029. Embroider Frame](/029-embroider-frame/image.png)
+
+### 030. Table Tray
+![030 Table Tray](/030-table-tray/image.png)
