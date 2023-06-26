@@ -114,3 +114,6 @@ This is for bed level testing.
 
 ### 032. Samsung controller hanger - Serial: BN59-01199G
 ![032. Samsung controller hanger - Serial: BN59-01199G](/032-BN59-01199G-Hanger/image.png)
+
+### 033. HP-charger-hanger
+![033. HP-charger-hanger](/033-HP-charger-hanger/image.png)
