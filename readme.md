@@ -117,3 +117,9 @@ This is for bed level testing.
 
 ### 033. HP-charger-hanger
 ![033. HP-charger-hanger](/033-HP-charger-hanger/image.png)
+
+### 034. Pencil Cap
+
+### 035. Filament sensor hanger
+![035. Filament sensor hanger](/035-filament-sensor-hanger/image.png)
+![035. Filament sensor hanger](/035-filament-sensor-hanger/image_2.jpg)
