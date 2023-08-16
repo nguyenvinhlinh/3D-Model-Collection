@@ -126,3 +126,6 @@ This is for bed level testing.
 
 ### 037. Box with cap
 ![037. Box with cap](/037-box-with-cap/image.png)
+
+### 038. Horizontal Expansion Test
+![038. Horizontal Expansion Test](/038-hole-expansion-test/image.png)
