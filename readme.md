@@ -123,3 +123,6 @@ This is for bed level testing.
 ### 035. Filament sensor hanger
 ![035. Filament sensor hanger](/035-filament-sensor-hanger/image.png)
 ![035. Filament sensor hanger](/035-filament-sensor-hanger/image_2.jpg)
+
+### 037. Box with cap
+![037. Box with cap](/037-box-with-cap/image.png)
