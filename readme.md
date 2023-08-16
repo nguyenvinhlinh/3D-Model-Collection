@@ -121,8 +121,11 @@ This is for bed level testing.
 ### 034. Pencil Cap
 
 ### 035. Filament sensor hanger
-![035. Filament sensor hanger](/035-filament-sensor-hanger/image.png)
+![035. Filament sensor hanger](/035-filament-sensor-hanger/image_1.png)
 ![035. Filament sensor hanger](/035-filament-sensor-hanger/image_2.jpg)
+
+### 036. General Hanger
+![036. General Hanger](/036-general-hanger/image.png)
 
 ### 037. Box with cap
 ![037. Box with cap](/037-box-with-cap/image.png)
