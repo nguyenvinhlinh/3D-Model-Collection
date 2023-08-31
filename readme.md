@@ -142,3 +142,6 @@ This is for bed level testing.
 
 ### 043. 120mm fan frame
 ![043. 120mm fan frame](/044-120mm-fan-frame/image.png)
+
+### 044. Cup holder
+![044. Cup holder](/045-cup-holder/image.png)
