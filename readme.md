@@ -139,3 +139,6 @@ This is for bed level testing.
 ### 042. Tape Hanger
 ![042. Tape Hanger](/042-tape-hanger/image_1.png)
 ![042. Reality](/042-tape-hanger/image_2.png)
+
+### 043. 120mm fan frame
+![043. 120mm fan frame](/044-120mm-fan-frame/image.png)
