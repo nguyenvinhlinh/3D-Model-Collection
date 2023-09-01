@@ -148,3 +148,6 @@ This is for bed level testing.
 
 ### 046. Board cleaner
 ![046. Board cleaner](/046-board-cleaner/image.png)
+
+### 047. Webcam hanger
+![047. webcam hanger](/047-webcam-hanger/image.png)
