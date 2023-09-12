@@ -151,3 +151,6 @@ This is for bed level testing.
 
 ### 047. Webcam hanger
 ![047. webcam hanger](/047-webcam-hanger/image.png)
+
+### 050. Table tray slot
+![050. Table tray slot](/050-table-tray-slots/image.png)
