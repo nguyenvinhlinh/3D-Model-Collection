@@ -157,3 +157,9 @@ This is for bed level testing.
 
 ### 051. Screwdriver hanger
 ![051. Screwdriver hanger](/051-screwdriver-hanger/image.png)
+
+### 054. Soap hanger
+![054. Soap hanger](/054-soap-hanger/image.png)
+
+### 055-usb-socket-cover
+![055-usb-socket-cover](/055-usb-socket-cover/image.png)
