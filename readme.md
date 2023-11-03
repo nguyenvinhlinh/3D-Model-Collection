@@ -161,5 +161,8 @@ This is for bed level testing.
 ### 054. Soap hanger
 ![054. Soap hanger](/054-soap-hanger/image.png)
 
-### 055-usb-socket-cover
+### 055.USB socket cover
 ![055-usb-socket-cover](/055-usb-socket-cover/image.png)
+
+### 058. USB Cap
+![058. USB Cap](/058-usb-cap/image.png)
